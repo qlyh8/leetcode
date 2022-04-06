@@ -1,5 +1,5 @@
 # LeetCode
 
-LeetCode problems I solved using Javascript
+LeetCode Problems I solved using Javascript
 
-![leetcode.jph](./leetcode.jpg)
+![leetcode.jpg](./logo.jpg)
